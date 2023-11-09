@@ -1,0 +1,32 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="50" height="50" fill="#E5E5E5"/>
+<g id="Home" clip-path="url(#clip0_0_1)">
+<rect width="1600" height="7068" transform="translate(-712 -888)" fill="white"/>
+<g id="This is how it work">
+<rect id="Background" x="-712" y="-128" width="1600" height="661" fill="#F4F6FC"/>
+<g id="Cards">
+<g id="Card">
+<g id="Content">
+<g id="pointer 1">
+<rect id="Rectangle 1242" width="50" height="50" rx="8" fill="#2405F2"/>
+<g id="Mask Group">
+<mask id="mask0_0_1" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="50" height="50">
+<rect id="Rectangle 1244" width="50" height="50" rx="8" fill="#5C5E84"/>
+</mask>
+<g mask="url(#mask0_0_1)">
+<rect id="Rectangle 1243" x="-26" y="27" width="50" height="50" rx="8" fill="#FCD980"/>
+<rect id="Rectangle 1245" x="8" y="-9" width="50" height="50" rx="8" fill="#5239FA"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1600" height="7068" fill="white" transform="translate(-712 -888)"/>
+</clipPath>
+</defs>
+</svg>
